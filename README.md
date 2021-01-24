@@ -1,2 +1,2 @@
 # sunshine
-.article3 .business .banner2 > li img
+https://jaewon4417.github.io/sunshine/
